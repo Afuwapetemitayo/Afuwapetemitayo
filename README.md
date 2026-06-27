@@ -8,10 +8,10 @@ ______________________________________________
 - **Development**: Full-stack web apps and software, Backend APIs, Database management, AI-powered SaaS products
 ______________________________________________
 
-**CURRENT PROJECT:** **Boundrix** — Scope Management SaaS for Nigerian Freelancers. An AI-powered web app that helps freelancers define, protect, and communicate their project boundaries with clients. Built to solve a very real problem in the Nigerian freelance market.
+**CURRENT PROJECT:** Building Boundrix, an AI-powered web app that helps freelancers define, protect, and communicate their project boundaries with clients. Built to solve a very real problem in the Nigerian freelance market.
 
-**Building Stack:** React + Vite + Tailwind · Node.js + Express · PostgreSQL + Prisma + Supabase · Google Gemini API
+**STACKS:** React + Vite + Tailwind · Node.js + Express · PostgreSQL + Prisma + Supabase · Google Gemini API
 
-_________________________________________________
+____________________________________________________
 
 
