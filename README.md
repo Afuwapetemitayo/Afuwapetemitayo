@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi, I'm Afuwape Temitayo and my Pseudonym is Thegeniuscreative · Freelance Graphic Designer & Full-Stack Developer · Nigeria
+I design brands that mean something and build web products that solve real problems — especially for African creators and freelancers navigating a global market.
+______________________________________________
 
-<!--
-**Afuwapetemitayo/Afuwapetemitayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+WHAT I DO
+- Design
+Brand visual design
+Social media visual systems
+Print, magazine & catalogue design
+UI/UX design for web products
 
-Here are some ideas to get you started:
+- Development
+Full-stack web apps and softwares
+Backend APIs
+Database management 
+AI-powered SaaS products
+______________________________________________
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+CURRENT PROJECT
+Boundrix — Scope Management SaaS for Nigerian Freelancers
+An AI-powered web app that helps freelancers define, protect, and communicate their project boundaries with clients. Built to solve a very real problem in the Nigerian freelance market..
+Building Stack: React + Vite + Tailwind · Node.js + Express · PostgreSQL + Prisma + Supabase · Google Gemini API
+
+_________________________________________________
+
+
